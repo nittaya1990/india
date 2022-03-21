@@ -14,30 +14,15 @@ _Note: Due to Covid-19 restrictions across the country, all the workshops are cu
 
 # Upcoming Events
 
-- [Oct 6, 2021: Hands On Workshop: CI/CD with GitHub Actions](#oct-6-2021-hands-on-workshop-cicd-with-github-actions)
-- [Oct 21, 2021: Building your own GitHub Action](#oct-21-2021-building-your-own-github-action)
+### Dec 16, 2021: Multi-cloud automation with GitHub Actions
 
----
-
-### Oct 6, 2021: Hands On Workshop: CI/CD with GitHub Actions
-
-GitHub Actions helps you automate, customize, and execute your software development workflows right within your GitHub repository. In this intermediate-level workshop, we will dive deep into how you can use Actions for your CI/CD pipelines. We will also provide best practices for using Actions within your software automation workflows.
+GitHub Actions works seamlessly with multiple cloud providers using community-built workflows. In this session, learn how you can interact with and deploy to multiple cloud providers using GitHub Actions and other features like Environments, Reusable workflows, and Open ID Connect.
 
 🎙️ _Speakers:_
-- **Chaitanya Sharma, Staff Software Engineer, GitHub**
-- **Kanika Pasrija, Software Engineer II, GitHub**
+- **Usha N, Senior Product Manager, GitHub**
+- **Karan MV, Senior Developer Relations Manager, GitHub**
 
-📝 _Registration:_ [Register here](https://calendly.com/ghevents/hands-on-workshop-ci-cd-with-github-actions?month=2021-10)
-
----
-
-### Oct 21, 2021: Building your own GitHub Action
-
-There are thousands of GitHub Actions on the GitHub Marketplace that you can use in automating your software workflows. Apart from this, you can also create your own Action for use within your GitHub account or even publish it on the Marketplace! In this session, we will show you how to get started building your own GitHub Action.
-
-🎙️ _Speaker:_ **MV Karan, Senior Developer Relations Manager, GitHub**
-
-📝 _Registration:_ [Register here](https://calendly.com/ghevents/building-your-own-github-actions)
+📝 _Registration:_ [Register here](https://calendly.com/ghevents/multicloud-automation-with-github-actions)
 
 ---
 
@@ -61,3 +46,36 @@ GitHub Actions is a widely-used software workflow automation feature on GitHub, 
 🎙️ _Speaker:_ **Gandhali Samant, Director - Developer Ecosystem & Market Engagement, GitHub**
 
 🎥 _Recording:_ [View here](https://github.zoom.us/rec/share/3yElw5Z5HlqXoNzHFTC4V-Rb4Elkr3vCAhOLgBcdocd6g3CVvcwhenJsyuy3QtR-.2mbG19oWO2iUt3Ej) (Access Passcode: `t&&1jVfv`)
+
+---
+
+### Hands On Workshop: CI/CD with GitHub Actions
+
+GitHub Actions helps you automate, customize, and execute your software development workflows right within your GitHub repository. In this intermediate-level workshop, we will dive deep into how you can use Actions for your CI/CD pipelines. We will also provide best practices for using Actions within your software automation workflows.
+
+🎙️ _Speakers:_
+- **Chaitanya Sharma, Staff Software Engineer, GitHub**
+- **Kanika Pasrija, Software Engineer II, GitHub**
+
+🎥 _Recording:_ [View here](https://github.zoom.us/rec/share/eKf4cx65by2VmkqVASGIHNBmEj_W1wMaVOtXx1-Pxdt2eM8YOErQgl79CYIwRX4T.pFy1IOspBVD-ZndG) (Access Passcode: `nZ7b.t&=`)
+
+:octocat:_Workshop Repositories:_
+- https://bit.ly/ActionsWorkshop-1
+- https://bit.ly/ActionsWorkshop-2
+- https://bit.ly/ActionsWorkshop-3
+
+---
+
+### Building your own GitHub Action
+
+There are thousands of GitHub Actions on the GitHub Marketplace that you can use in automating your software workflows. Apart from this, you can also create your own Action for use within your GitHub account or even publish it on the Marketplace! In this session, we will show you how to get started building your own GitHub Action.
+
+🎙️ _Speaker:_ **MV Karan, Senior Developer Relations Manager, GitHub**
+
+🎥 _Recording:_ [View here](https://github.zoom.us/rec/share/MAMASUrYshQ__C83w5kDNmY0-fZ9bDBIRnjdaWYWRfbSCnfCLHPWV2KixsjykKQ-.0o1YRgi11dw5nser) (Access Passcode: `+%+7zZ4S`)
+
+---
+
+### Code Innovation Series [November, 2021] - Git & GitHub Workshop for students
+
+🎥 _Recording:_ [View here](https://github.zoom.us/rec/share/mNa182GIphTetuUSr5zO2RG_dyJkYaGbmxzgjG91hpZShSA_NVZTWdU4F6yOBYjq.i8NXaPQiMbEBYSls) (Access Passcode: `ZtF5qEX+`)
